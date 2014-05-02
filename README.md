@@ -1,4 +1,3 @@
-
 Overview
 ========
 
@@ -9,7 +8,7 @@ command line interface for simple uses.
 Documentation
 -------------
 
-http://github.com/samuel/kokki/wiki
+http://github.com/gkesavan/kokki/wiki
 
 Mailing List
 ------------
